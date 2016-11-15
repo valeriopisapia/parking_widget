@@ -1,5 +1,7 @@
 *~
 .DS_Store
-docs
+node_modules
 .idea
-themeforest-12931855-fuse-angularjs-material-design-admin-template
+questions
+test
+dist
