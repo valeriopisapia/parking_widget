@@ -13,7 +13,7 @@
 
 ## Usage
 
-1. Clone this repo from `...` or install via npm: `npm install ...`
+1. Clone this repo from `https://github.com/valeriopisapia/parking_widget.git` or install via npm: `npm install https://github.com/valeriopisapia/parking_widget.git`
 2. Run `npm install` in the root directory (will automatically run `jspm install`)
 3. Run `gulp` or `npm start` to start the local dev server (you may need to install Gulp locally using `npm install -g gulp`)
 
